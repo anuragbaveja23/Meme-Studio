@@ -4,11 +4,11 @@ Meme Studio is a playful web-based meme generator built with Next.js, Tailwind C
 
 ## Features
 
-	•	Choose from a set of popular meme templates
-	•	Add top and bottom text with instant preview
-	•	Download your meme as an image
-	•	View and manage your created memes in the “My Memes” section
-	•	Clean and responsive UI built with Tailwind CSS
+• Choose from a set of popular meme templates
+• Add top and bottom text with instant preview
+• Download your meme as an image
+• View and manage your created memes in the “My Memes” section
+• Clean and responsive UI built with Tailwind CSS
 
 ## Tech Stack
 
