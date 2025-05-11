@@ -13,6 +13,10 @@ Meme Studio is a playful web-based meme generator built with Next.js, Tailwind C
 - Fast Performance – Powered by Next.js and optimized for quick meme generation.
 
 
+## Live URL
+
+https://meme-studio-navy.vercel.app
+
 ## Tech Stack
 
 - **Frontend Framework:** Next.js 15.2.4
@@ -27,9 +31,6 @@ Meme Studio is a playful web-based meme generator built with Next.js, Tailwind C
 - **Charts:** Recharts
 - **File Upload:** React Dropzone
 
-## Live URL
-
-https://meme-studio-navy.vercel.app
 
 ### Prerequisites
 
