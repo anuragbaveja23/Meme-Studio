@@ -29,6 +29,8 @@ Meme Studio is a playful web-based meme generator built with Next.js, Tailwind C
 
 ## Live URL
 
+https://meme-studio-navy.vercel.app
+
 ### Prerequisites
 
 - Node.js (Latest LTS version recommended)
